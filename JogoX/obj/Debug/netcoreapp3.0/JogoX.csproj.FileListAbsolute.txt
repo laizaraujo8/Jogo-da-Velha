@@ -1,0 +1,13 @@
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\bin\Debug\netcoreapp3.0\JogoX.exe
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\bin\Debug\netcoreapp3.0\JogoX.deps.json
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\bin\Debug\netcoreapp3.0\JogoX.runtimeconfig.json
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\bin\Debug\netcoreapp3.0\JogoX.runtimeconfig.dev.json
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\bin\Debug\netcoreapp3.0\JogoX.dll
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\bin\Debug\netcoreapp3.0\JogoX.pdb
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.csprojAssemblyReference.cache
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.Form1.resources
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.csproj.GenerateResource.cache
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.AssemblyInfoInputs.cache
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.AssemblyInfo.cs
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.dll
+C:\Users\laiz.araujo\Desktop\Estudos\JogoX\JogoX\obj\Debug\netcoreapp3.0\JogoX.pdb
